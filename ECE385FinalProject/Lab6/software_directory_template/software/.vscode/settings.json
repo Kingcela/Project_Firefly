@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "altera_avalon_spi.h": "c"
+    }
+}

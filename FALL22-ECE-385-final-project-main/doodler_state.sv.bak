@@ -1,0 +1,10 @@
+// doodler_state.sv
+// created 22/11/16
+
+module doodler_state ( input Reset, frame_clk.
+                       input [7:0] keycode,
+							  output [1:0] state								
+							 );
+							 
+    always_ff @ (posedge Reset or posedge frame_clk )
+				

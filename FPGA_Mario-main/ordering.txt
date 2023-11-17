@@ -1,0 +1,23 @@
+0 blank
+1 sky
+2 platform
+3 cloud_1
+4 brick
+5 cloud_2
+6 fuel tank
+7 could_3
+8 missing
+9 could_4
+10 missing
+11 bush_1
+12 missing
+13 bush_2
+14 spikes
+15 dbush_1
+16 elec_2
+17 dbush_2
+18 elec_3
+19 dbush_3
+20 missing
+21 flag
+27 spikes

@@ -1,0 +1,26 @@
+//-------------------------------------------------------------------------                                                        
+//    used for ECE 385fFA22 final project
+//    edited 22/12/04
+//-------------------------------------------------------------------------
+module distance_sum ( input Reset, frame_clk,
+							 input drop,
+							 input [9:0] distance,
+							 output logic [31:0] distance_sum
+                     );
+	logic [31:0] sum;
+	assign distance_sum = sum;
+	
+	always_ff @ (posedge Reset or posedge frame_clk)
+		begin
+			if (Reset)
+				sum <= 0;
+			else if (drop)
+				sum <= sum;
+			else 
+				sum <= sum + distance % 1000;
+		end
+endmodule
+
+
+
+

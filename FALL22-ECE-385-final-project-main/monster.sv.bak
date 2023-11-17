@@ -1,0 +1,13 @@
+//-------------------------------------------------------------------------
+//    monster.sv                                                            
+//    based on the ball.sv provided in lab6
+//    edited by JS
+//    used for ECE 385fFA22 final project
+//    2022/11/24
+//-------------------------------------------------------------------------
+module monster ( input Clk, Reset, frame_clk,
+                  input [9:0] DrawX, DrawY,
+					   input [7:0] keycode,
+						input logic [1:0] doodler_state,
+						output logic [2:0] is_doodler,
+                  output [9:0]  BallX, BallY, BallS, Ball_Y_Step_out); 

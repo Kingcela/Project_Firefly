@@ -1,0 +1,18 @@
+Fitter Status : Successful - Wed Apr 19 01:05:13 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : adder2
+Top-level Entity Name : lab62
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 9,704 / 49,760 ( 20 % )
+    Total combinational functions : 8,912 / 49,760 ( 18 % )
+    Dedicated logic registers : 3,236 / 49,760 ( 7 % )
+Total registers : 3305
+Total pins : 141 / 360 ( 39 % )
+Total virtual pins : 0
+Total memory bits : 117,158 / 1,677,312 ( 7 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

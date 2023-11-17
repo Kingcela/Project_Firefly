@@ -1,0 +1,10 @@
+//
+// stair.sv
+// used for final project
+// created 22/11/10
+//
+module stair( 
+				 input Reset, frame_clk,
+				 output [9:0] Stair_X, Stair_Y;
+
+             );

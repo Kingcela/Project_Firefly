@@ -1,0 +1,1198 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/fp/FPGA_Mario-main/finalproject/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1683231035
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+I<eM^dVhMchnzo^KeIM2>b3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1658166307
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_avalon_sc_fifo.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1683231035.000000
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z7 o-vlog01compat -work lab62soc
+Z8 !s92 -vlog01compat -work lab62soc +incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules
+Z9 tCvgOpt 0
+valtera_reset_controller
+Z10 !s110 1683231034
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+IAKY_4_WfU[18ohUiInP3C3
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_reset_controller.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+Z11 !s108 1683231034.000000
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+R9
+valtera_reset_synchronizer
+R10
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+I4B^oFm72;Nm?D;j3BCKZl2
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_reset_synchronizer.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_reset_synchronizer.v
+L0 24
+R5
+r1
+!s85 0
+31
+R11
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc
+R10
+!i10b 1
+!s100 bo7ZQ^TDzLRUP5?K<:2AX1
+I?NEWH2dcgKi^C;I;ULoaZ1
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/lab62soc.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/lab62soc.v
+L0 6
+R5
+r1
+!s85 0
+31
+R11
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/lab62soc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/lab62soc.v|
+!i113 1
+R7
+!s92 -vlog01compat -work lab62soc +incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis
+R9
+vlab62soc_hex_digits_pio
+Z12 !s110 1683231039
+!i10b 1
+!s100 m=SO=ZT?n1Q=1kbZHB8902
+IJIjPa9mi>eGM?kV>@Mz882
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_hex_digits_pio.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_hex_digits_pio.v
+R4
+R5
+r1
+!s85 0
+31
+Z13 !s108 1683231039.000000
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_hex_digits_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_hex_digits_pio.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_jtag_uart_0
+R12
+!i10b 1
+!s100 QZE:]__?bElcJ?2Jk<`SN3
+IgfUa^6n`Y>VADhdCXVe^m1
+R2
+R0
+R3
+Z14 8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_jtag_uart_0.v
+Z15 FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_jtag_uart_0.v
+L0 331
+R5
+r1
+!s85 0
+31
+R13
+Z16 !s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_jtag_uart_0.v|
+Z17 !s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_jtag_uart_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_jtag_uart_0_scfifo_r
+R12
+!i10b 1
+!s100 ikTc5;YdMgO1;[hFHRD?^3
+IG`Lgi7nmR2F^0@S0bJNK[1
+R2
+R0
+R3
+R14
+R15
+L0 243
+R5
+r1
+!s85 0
+31
+R13
+R16
+R17
+!i113 1
+R7
+R8
+R9
+vlab62soc_jtag_uart_0_scfifo_w
+R12
+!i10b 1
+!s100 MHmWFARk6G;A0Yj1@GzaW1
+I1D?CQe=D`5FOcX_?]bXXX2
+R2
+R0
+R3
+R14
+R15
+L0 78
+R5
+r1
+!s85 0
+31
+R13
+R16
+R17
+!i113 1
+R7
+R8
+R9
+vlab62soc_jtag_uart_0_sim_scfifo_r
+R12
+!i10b 1
+!s100 GjLV;fJI]MdIdeFJHYMQ?0
+IOY0G;iG^:hz7iKT8TUL3h3
+R2
+R0
+R3
+R14
+R15
+L0 164
+R5
+r1
+!s85 0
+31
+R13
+R16
+R17
+!i113 1
+R7
+R8
+R9
+vlab62soc_jtag_uart_0_sim_scfifo_w
+R12
+!i10b 1
+!s100 CCkk@_B7Z`2Q;QTkzc9LM1
+I;fJe]2J[1C;I533<UddFd3
+R2
+R0
+R3
+R14
+R15
+R4
+R5
+r1
+!s85 0
+31
+R13
+R16
+R17
+!i113 1
+R7
+R8
+R9
+vlab62soc_key
+Z18 !s110 1683231038
+!i10b 1
+!s100 SUO`fR6bD2LB[@915574Y3
+IBd=ALhiWDUF5_SHi7Ko1?2
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_key.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_key.v
+R4
+R5
+r1
+!s85 0
+31
+Z19 !s108 1683231038.000000
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_key.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_key.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_keycode
+R18
+!i10b 1
+!s100 h;3i[O5g?bS?a^eVEDLbX1
+IaWXFS;5MhkEZ9Yz6hjBNW0
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_keycode.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_keycode.v
+R4
+R5
+r1
+!s85 0
+31
+R19
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_keycode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_keycode.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_leds_pio
+R18
+!i10b 1
+!s100 ?VjidSCTF:VBeVQN_bF[i1
+I5EL]EmhFW@W;_0Sk1f>RM3
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_leds_pio.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_leds_pio.v
+R4
+R5
+r1
+!s85 0
+31
+R19
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_leds_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_leds_pio.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_mm_interconnect_0
+R1
+!i10b 1
+!s100 [97Sh]FZz6Lz[NX9=[@lM1
+INe6JF]9CQ6A;AkX4g7cdo2
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R11
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_mm_interconnect_0_avalon_st_adapter
+R1
+!i10b 1
+!s100 4:D=caIG6bNR3]MeNfC1d1
+I>`1bS2_`RbZ_7:7eJPhVU2
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0_avalon_st_adapter.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_mm_interconnect_0_avalon_st_adapter_005
+R1
+!i10b 1
+!s100 z90ZdoII=]F<iWdkU@lNU1
+IekS?bcgngblUWE<jGf4Qi0
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0_avalon_st_adapter_005.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0_avalon_st_adapter_005.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0
+Z20 !s110 1683231037
+!i10b 1
+!s100 Ni_Co1@CBYzan6^8k^=613
+IWZDLW9m`Q=0534D<B:3;^0
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+Z21 !s108 1683231037.000000
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu
+R20
+!i10b 1
+!s100 b^_<P^]AUGoRkeT58[Xb<0
+I645mB@a^AIQKA6DWjoe`40
+R2
+R0
+R3
+Z22 8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu.v
+Z23 FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu.v
+L0 2834
+R5
+r1
+!s85 0
+31
+R21
+Z24 !s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu.v|
+Z25 !s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_debug_slave_sysclk
+R20
+!i10b 1
+!s100 OP;FY6d7dIkS2fHmWQ=8E2
+I1VIXcL9fF8^XHQCIZPnAj3
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+R21
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_debug_slave_tck
+R20
+!i10b 1
+!s100 a<6:8J68RS9<XB`b>mPS22
+Il1L=>SX0LE<>i3eDiBFVB0
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_tck.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+R21
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_debug_slave_wrapper
+R18
+!i10b 1
+!s100 =GVCURcXNf?i27zPKUVz[0
+II_@ko^^dmOEZn1XI[liem2
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+R19
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_avalon_reg
+R20
+!i10b 1
+!s100 <PR_bBn1TE@l>QA`dIfiR2
+IIZEmP825Rc@VlLQFVoI7Z3
+R2
+R0
+R3
+R22
+R23
+L0 2023
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci
+R20
+!i10b 1
+!s100 J1GV>h1<ejU2l`3G6[OAJ3
+Ih<:Q9>J;EFEfR]FU4jUoA3
+R2
+R0
+R3
+R22
+R23
+L0 2362
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_break
+R20
+!i10b 1
+!s100 iO_EkUG:NI>bT:;i31k]@0
+I=U<2SZTimLk3eIcMFTiil3
+R2
+R0
+R3
+R22
+R23
+L0 295
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R20
+!i10b 1
+!s100 ];YLO8FaOHce55P9nPA8Q1
+IOIYXB18><VJ5D1W4QZFG13
+R2
+R0
+R3
+R22
+R23
+L0 1265
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_dbrk
+R20
+!i10b 1
+!s100 YoYAkHMWDcmIR]FeFbFU=0
+I4f]832fFn5C]Fnb?E42SQ0
+R2
+R0
+R3
+R22
+R23
+L0 795
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_debug
+R20
+!i10b 1
+!s100 1_IY@>H6g>Tzc`f2W?W^l1
+IJC9BS0ZQ`;ZW=YZPZZzYQ2
+R2
+R0
+R3
+R22
+R23
+L0 153
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_dtrace
+R20
+!i10b 1
+!s100 jMKZXWIS5h3ck_DB1AbA91
+I?3QMz>bB5jFR6KM3A_5j30
+R2
+R0
+R3
+R22
+R23
+L0 1183
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_fifo
+R20
+!i10b 1
+!s100 =A`IAAiifAzmkgHV^^n]40
+IeYkHgZc:fEijLD?Q78joc2
+R2
+R0
+R3
+R22
+R23
+L0 1427
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R20
+!i10b 1
+!s100 z]f9E;UnWH4c@ZG1NWaoH2
+I48QPjiZinJWdDGIO?cMUi0
+R2
+R0
+R3
+R22
+R23
+L0 1380
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R20
+!i10b 1
+!s100 V7P0oWacX0ePEocWl??XO0
+I@U[j;_jBD:BmC[J?mfzX41
+R2
+R0
+R3
+R22
+R23
+L0 1337
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_im
+R20
+!i10b 1
+!s100 zdha3KzX9>GJRP4lQ3g_L2
+I=DQPJKIEKBmXMoaJ1[m@f2
+R2
+R0
+R3
+R22
+R23
+L0 1936
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_itrace
+R20
+!i10b 1
+!s100 a<KFRPYZ9M>iz7G6kW[hj0
+IhAm5^Y_k__Tj5R_Fo:VDH0
+R2
+R0
+R3
+R22
+R23
+L0 982
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_pib
+R20
+!i10b 1
+!s100 6PRf8;`aCc]Wbmf<h:C?o2
+IJ=WaS@4R?ldkZiSh=Xh8N3
+R2
+R0
+R3
+R22
+R23
+L0 1913
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_td_mode
+R20
+!i10b 1
+!s100 kGQLGU^VnALmUnd6FHi]B0
+IE?MmhN0AP8eP[3V^]5el01
+R2
+R0
+R3
+R22
+R23
+L0 1115
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_oci_xbrk
+R20
+!i10b 1
+!s100 BaiL`D<IXHmZGn_h2=7AW0
+I7:491=801JglJo9m54Fd@1
+R2
+R0
+R3
+R22
+R23
+L0 588
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_ocimem
+R20
+!i10b 1
+!s100 Uz>YdEEm05ESoz;C^=kn^0
+IBFC_hPVd;5jVCBjX;;c_o3
+R2
+R0
+R3
+R22
+R23
+L0 2181
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_nios2_performance_monitors
+R20
+!i10b 1
+!s100 b_:]Wei8b7HHicFkg8Hf@0
+IaF0?dLhKKTK2lYF=:67:S2
+R2
+R0
+R3
+R22
+R23
+L0 2006
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_ociram_sp_ram_module
+R20
+!i10b 1
+!s100 JHeGn==eW_2i1MZ;<gm^^1
+IO`HA29Z:12<TNhaHZRM`j0
+R2
+R0
+R3
+R22
+R23
+L0 2116
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_register_bank_a_module
+R20
+!i10b 1
+!s100 _Nf8U5Jl;LT?CNE><3mI23
+I=`CgnT_Wg9kE2d3gN8:?J1
+R2
+R0
+R3
+R22
+R23
+R4
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_register_bank_b_module
+R20
+!i10b 1
+!s100 BMPM2bA3j<cUYSS2T`l_D0
+IU:TPA0O<l]IlC<d>a0@=A0
+R2
+R0
+R3
+R22
+R23
+L0 87
+R5
+r1
+!s85 0
+31
+R21
+R24
+R25
+!i113 1
+R7
+R8
+R9
+vlab62soc_nios2_gen2_0_cpu_test_bench
+R18
+!i10b 1
+!s100 Q7Y_c0nBVoJ8O0[T?G[7g3
+IWS[1`cD<AB6l8;=OHhf5H0
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_test_bench.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+R19
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_nios2_gen2_0_cpu_test_bench.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_onchip_memory2_0
+Z26 !s110 1683231036
+!i10b 1
+!s100 5:7Iz_TLi5ORLS6[>8F4b0
+ITVOFQGS9_WDh@LoGgb;fJ3
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_onchip_memory2_0.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+Z27 !s108 1683231036.000000
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_onchip_memory2_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_sdram
+R26
+!i10b 1
+!s100 ;FhaPQ67gQ[fJaAzNTXK=2
+Io>g;1hjM1jQXmLT@9eBoB1
+R2
+R0
+R3
+Z28 8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sdram.v
+Z29 FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sdram.v
+L0 159
+R5
+r1
+!s85 0
+31
+R27
+Z30 !s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sdram.v|
+Z31 !s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sdram.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_sdram_input_efifo_module
+R26
+!i10b 1
+!s100 Mgmh6^AjCh2a=fF3kUe>m2
+IAQa5?2>8[zWU^`a]m1ifh3
+R2
+R0
+R3
+R28
+R29
+R4
+R5
+r1
+!s85 0
+31
+R27
+R30
+R31
+!i113 1
+R7
+R8
+R9
+vlab62soc_sdram_pll
+R26
+!i10b 1
+!s100 E^HCBmfU255=QEWe=j8D[1
+ImKcn?:4M6[8U5Fo8MF7l73
+R2
+R0
+R3
+Z32 8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sdram_pll.v
+Z33 FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sdram_pll.v
+L0 217
+R5
+r1
+!s85 0
+31
+R27
+Z34 !s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sdram_pll.v|
+Z35 !s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sdram_pll.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_sdram_pll_altpll_vg92
+R26
+!i10b 1
+!s100 @>0UJS;B2ohi>hAXgVYZi2
+IhjXVLEL06_EH9:d<:KR9Y3
+R2
+R0
+R3
+R32
+R33
+L0 130
+R5
+r1
+!s85 0
+31
+R27
+R34
+R35
+!i113 1
+R7
+R8
+R9
+vlab62soc_sdram_pll_dffpipe_l2c
+R26
+!i10b 1
+!s100 <5@fhgC5hi1K5;0L5W=TC1
+Il>WKnD6dW;0_A@7O:6kBg2
+R2
+R0
+R3
+R32
+R33
+L0 37
+R5
+r1
+!s85 0
+31
+R27
+R34
+R35
+!i113 1
+R7
+R8
+R9
+vlab62soc_sdram_pll_stdsync_sv6
+R26
+!i10b 1
+!s100 d7b6>k`jg`CLoo=;O?`JF2
+I48QA694i2e`m]f3lo]G]e1
+R2
+R0
+R3
+R32
+R33
+L0 98
+R5
+r1
+!s85 0
+31
+R27
+R34
+R35
+!i113 1
+R7
+R8
+R9
+vlab62soc_spi_0
+R26
+!i10b 1
+!s100 VAC7j7IEo@9LfnC1nI^N=1
+ID@fm;:oB0J>g0mZ0BZ8710
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_spi_0.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_spi_0.v
+L0 41
+R5
+r1
+!s85 0
+31
+R27
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_spi_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_spi_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_sysid_qsys_0
+R26
+!i10b 1
+!s100 gM`5Ee`=?ag>4KEnoZQdH2
+Iz[mUPob:b^?KnSS;TBBMb3
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sysid_qsys_0.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sysid_qsys_0.v
+L0 34
+R5
+r1
+!s85 0
+31
+R27
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_sysid_qsys_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_timer_0
+R26
+!i10b 1
+!s100 7mfYNeCShmUG`azb[g4AP0
+IooS36=2@o][7B9daZzBiW0
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_timer_0.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_timer_0.v
+R4
+R5
+r1
+!s85 0
+31
+R27
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_timer_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_timer_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_usb_gpx
+R26
+!i10b 1
+!s100 N3E:6<TWLZzfh3BX]RE6g1
+I3jelJHJWjcN[zE8c7j;463
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_usb_gpx.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_usb_gpx.v
+R4
+R5
+r1
+!s85 0
+31
+R27
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_usb_gpx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_usb_gpx.v|
+!i113 1
+R7
+R8
+R9
+vlab62soc_usb_rst
+R1
+!i10b 1
+!s100 l@mTN3_LTU?R5OL[b>1@m2
+IS7d7_g]BF<Xc7JHPo1L=31
+R2
+R0
+R3
+8H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_usb_rst.v
+FH:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_usb_rst.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_usb_rst.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62soc|+incdir+H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules|H:/fp/FPGA_Mario-main/finalproject/lab62soc/synthesis/submodules/lab62soc_usb_rst.v|
+!i113 1
+R7
+R8
+R9

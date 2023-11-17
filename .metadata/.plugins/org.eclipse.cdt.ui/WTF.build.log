@@ -1,0 +1,6 @@
+01:13:58 **** Clean-only build of configuration Nios II for project WTF ****
+make clean 
+[WTF clean complete]
+
+01:13:59 Build Finished (took 335ms)
+

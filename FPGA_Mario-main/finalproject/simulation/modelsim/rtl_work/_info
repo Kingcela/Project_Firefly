@@ -1,0 +1,161 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/fp/FPGA_Mario-main/finalproject/simulation/modelsim
+vcounter
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1683231039
+!i10b 1
+!s100 f`aLK9>DO?Rm>C3MmaN7g1
+ID;VOT4CARO1Pe@5^mQ7[g1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 Color_Mapper_sv_unit
+S1
+R0
+Z5 w1683230002
+Z6 8H:/fp/FPGA_Mario-main/finalproject/Color_Mapper.sv
+Z7 FH:/fp/FPGA_Mario-main/finalproject/Color_Mapper.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1683231039.000000
+Z10 !s107 H:/fp/FPGA_Mario-main/finalproject/Color_Mapper.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+H:/fp/FPGA_Mario-main/finalproject|H:/fp/FPGA_Mario-main/finalproject/Color_Mapper.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+H:/fp/FPGA_Mario-main/finalproject
+Z14 tCvgOpt 0
+vcounter_mario_ani
+R1
+R2
+!i10b 1
+!s100 DZQV4K[f8MG`4Za`a_<Vn3
+Ie_?`dRG74kj=Ge8OAiV4;3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 14
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 hKBo4zbCRmY3[Ac9JZP;<0
+IDnBd<Y6VE]Ei[??;Qc]l20
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+Z15 w1658166307
+8H:/fp/FPGA_Mario-main/finalproject/HexDriver.sv
+FH:/fp/FPGA_Mario-main/finalproject/HexDriver.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 H:/fp/FPGA_Mario-main/finalproject/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+H:/fp/FPGA_Mario-main/finalproject|H:/fp/FPGA_Mario-main/finalproject/HexDriver.sv|
+!i113 1
+R12
+R13
+R14
+n@hex@driver
+vlab62
+R1
+R2
+!i10b 1
+!s100 ;WGl_Z9][A:Hma30>AJPa0
+IB8;6z<2iz[bd^<mdEgB`V0
+R3
+!s105 lab62_sv_unit
+S1
+R0
+R15
+8H:/fp/FPGA_Mario-main/finalproject/lab62.sv
+FH:/fp/FPGA_Mario-main/finalproject/lab62.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+!s107 H:/fp/FPGA_Mario-main/finalproject/lab62.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+H:/fp/FPGA_Mario-main/finalproject|H:/fp/FPGA_Mario-main/finalproject/lab62.sv|
+!i113 1
+R12
+R13
+R14
+vmario_look_dir
+R1
+R2
+!i10b 1
+!s100 We;cS5gA;5LlXW17bio6N0
+ID329zo_YbjjFb1S@mQ<;k1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 28
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vvga_controller
+R1
+R2
+!i10b 1
+!s100 PJJOcFccdZOKRcczIX[X?3
+IVL;jg_bEAKWZjIRGoRDgQ3
+R3
+!s105 VGA_controller_sv_unit
+S1
+R0
+R15
+8H:/fp/FPGA_Mario-main/finalproject/VGA_controller.sv
+FH:/fp/FPGA_Mario-main/finalproject/VGA_controller.sv
+L0 25
+R8
+r1
+!s85 0
+31
+R9
+!s107 H:/fp/FPGA_Mario-main/finalproject/VGA_controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+H:/fp/FPGA_Mario-main/finalproject|H:/fp/FPGA_Mario-main/finalproject/VGA_controller.sv|
+!i113 1
+R12
+R13
+R14
